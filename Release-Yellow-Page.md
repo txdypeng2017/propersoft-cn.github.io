@@ -1,5 +1,6 @@
 
 ### 抢先版
 
-![Android](./Yellow-Page/xt-android.png)
-![iOS](./Yellow-Page/xt-ios.png)
+* Android：![Android](./Yellow-Page/xt-android.png)
+
+* IOS：![iOS](./Yellow-Page/xt-ios.png)
