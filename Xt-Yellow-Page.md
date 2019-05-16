@@ -1,5 +1,5 @@
 
-## 抢先版
+## 协同抢先版
 
 ## Android
 ![Android](./Yellow-Page/xt-android.png)
