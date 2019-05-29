@@ -25,8 +25,5 @@
 |外网 |招聘   |[http://202.199.100.174:10090/recruit-client/login.jsp;jsessionid=A675BCA29E1C1C98D56BE44C6825FB4A](http://202.199.100.174:10090/recruit-client/login.jsp;jsessionid=A675BCA29E1C1C98D56BE44C6825FB4A)|197408001/123456|
 |内网 |招聘   |[http://192.168.1.122:10090/recruit-client/login.jsp;jsessionid=A675BCA29E1C1C98D56BE44C6825FB4A](http://192.168.1.122:10090/recruit-client/login.jsp;jsessionid=A675BCA29E1C1C98D56BE44C6825FB4A)|197408001/123456|
 
-### 管理员账号 
-* admin/123456
-
 ### 注意
 * 外网环境是稳定的演示环境。内网环境是我们内部测试的环境，不保证稳定性。
